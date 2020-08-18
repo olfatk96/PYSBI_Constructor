@@ -1,3 +1,9 @@
+## Authors
+
+**Laura González Antiga** - [Linkedin](https://www.linkedin.com/in/laura-gonzález-antiga/)
+**Olfat Khannous Lleiffe** - [Linkedin](https://www.linkedin.com/in/olfat-khannous-lleiffe-155a22122/)
+**Marina Murillo Recio** - [Linkedin](https://www.linkedin.com/in/marina-murillo-recio-986168b2/)
+
 # PYSBI
 
 Given a set of interacting pairs (prot-prot) reconstruct the complete macrocomplex.
@@ -67,11 +73,7 @@ python3 maincompl.py –i example1 –o OUTPUT –v –d 8
 ```
 
 
-## Authors
 
-**Laura González Antiga** - [Linkedin](https://www.linkedin.com/in/laura-gonzález-antiga/)
-**Olfat Khannous Lleiffe** - [Linkedin](https://www.linkedin.com/in/olfat-khannous-lleiffe-155a22122/)
-**Marina Murillo Recio** - [Linkedin](https://www.linkedin.com/in/marina-murillo-recio-986168b2/)
 
 
 
